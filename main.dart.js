@@ -100178,7 +100178,7 @@ p=$.h
 if(p==null)p=$.h=new A.z()
 p.C(a3.A$)
 a3=J.d(a3.D$,e)?B.au:B.L
-p=a*0.02
+p=a*0.005
 o=s*0.02
 m=g.w
 if(m===$){n=g.a.r
@@ -100204,7 +100204,7 @@ m=g.as
 if(m===$){h=g.a.Q
 h===$&&A.c()
 m=g.as=h}h=t.p
-return A.b2(A.ay(f,new A.a7(B.oT,A.ai(A.b([new A.r(f,q,f,f),a1,new A.r(f,s*0.03,f,f),B.bT,new A.r(f,s*0.7,A.hE(f,a3,A.hD(!0,A.hG(new A.a7(new A.Z(p,0,p,0),A.ai(A.b([new A.r(f,o,f,f),n,new A.r(f,o,f,f),l,new A.r(f,o,f,f),k,new A.r(f,o,f,f),j,new A.r(f,o,f,f),i,new A.r(f,o,f,f),g.qU(a5,c,B.ps,"Logs",m,new A.aA2(g)),new A.r(f,o,f,f)],h),B.o,f,B.n,B.h),f),f,B.J),B.R,!0),f),f),B.bT,new A.r(a*0.18,f,A.aC(f,!0,f,!1,new A.Gv(b,p,f),f,f,f,!1,f,f,f,A.e4(f,A.p("Logout",f,f,f,r,f,f),B.G,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.aA3(g,a5,c),f,f,f,f,f,f,!1,B.ar)),f),new A.r(f,q,f,f)],h),B.o,f,B.n,B.h),f),B.j,a4,f,f,f,s,f,f,f,f,a),f,40,B.R)},
+return A.b2(A.ay(f,new A.a7(B.oT,A.ai(A.b([new A.r(f,q,f,f),a1,new A.r(f,s*0.03,f,f),B.bT,new A.r(f,s*0.7,A.hE(f,a3,A.hD(!0,A.hG(new A.a7(new A.Z(p,0,p,0),A.ai(A.b([new A.r(f,o,f,f),n,new A.r(f,o,f,f),l,new A.r(f,o,f,f),k,new A.r(f,o,f,f),j,new A.r(f,o,f,f),i,new A.r(f,o,f,f),g.qU(a5,c,B.ps,"Logs",m,new A.aA2(g)),new A.r(f,o,f,f)],h),B.o,f,B.n,B.h),f),f,B.J),B.R,!0),f),f),B.bT,new A.r(a*0.18,f,A.aC(f,!0,f,!1,new A.Gv(b,a*0.02,f),f,f,f,!1,f,f,f,A.e4(f,A.p("Logout",f,f,f,r,f,f),B.G,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.aA3(g,a5,c),f,f,f,f,f,f,!1,B.ar)),f),new A.r(f,q,f,f)],h),B.o,f,B.n,B.h),f),B.j,a4,f,f,f,s,f,f,f,f,a),f,40,B.R)},
 qU(a,b,c,d,e,f){var s=null,r=b.b,q=b.a,p=A.cj(c,B.e,s,q*0.028),o=A.p(d,s,s,s,this.f,s,s),n=A.ct(10),m=e?B.e:B.V
 return new A.r(s,r*0.1,A.aC(s,!0,q*0.01,!1,p,r*0.025,s,new A.aA4(f),!1,new A.dH(n,new A.bT(m,1,B.a2,-1)),s,o,s),s)}}
 A.azX.prototype={
