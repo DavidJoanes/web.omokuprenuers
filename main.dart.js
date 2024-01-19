@@ -96531,7 +96531,7 @@ s.oK()
 s.aI()},
 m(){this.aE()},
 J(b7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=this,a=null,a0="categoryRevenue",a1="months",a2="currentCategoryRevenue",a3=A.b0(b7,a,t.w).w.a,a4=A.aN().$1$textStyle(B.b0),a5=A.aN().$1$textStyle(B.S),a6=a3.a,a7=A.aN().$1$textStyle(A.bd(a,a,a,a,a,a,a,a,a,a,a,a6*0.015,a,a,B.az,a,a,!0,a,a,a,a,a,a,a,a)),a8=a3.b,a9=a8*0.01,b0=a6*0.01,b1=A.ct(10),b2=b.gcz(),b3=b.y,b4=A.o(b3).h("e3<1,eq<l>>"),b5=t.N,b6=t.p
-b1=A.b2(A.bL(A.b([A.ax(a,A.aC(a,!0,a,!1,a,a,a,a,!1,a,A.aj(A.b([A.b2(new A.a7(new A.Z(b0,0,b0,0),new A.cA(A.iK(!0,A.ai(new A.e3(b3,b.gqG(),b4),!0,b4.h("t.E")),new A.au0(b),b2,b5),a),a),a,a,a)],b6),B.z,a,B.n,B.h),a,a),B.j,a,a,new A.aF(a,a,a,b1,a,a,B.t),a,a,a,a,a,a,a6*0.16),A.b2(new A.r(a6*0.12,a,A.aC(a,!0,a,!1,A.p("Refresh",a,a,a,a4,a,a),a,a,new A.au1(b,b7,a3),!1,a,a,a,B.Ks),a),a,a,a)],b6),B.o,B.aw,B.h),a,3,a)
+b1=A.b2(A.bL(A.b([A.ax(a,A.aC(a,!0,a,!1,a,a,a,a,!1,a,A.aj(A.b([A.b2(new A.a7(new A.Z(b0,0,b0,0),new A.cA(A.iK(!0,A.ai(new A.e3(b3,b.gqG(),b4),!0,b4.h("t.E")),new A.au0(b),b2,b5),a),a),a,a,a)],b6),B.z,a,B.n,B.h),a,a),B.j,a,a,new A.aF(a,a,a,b1,a,a,B.t),a,a,a,a,a,a,110),A.b2(new A.r(a6*0.12,a,A.aC(a,!0,a,!1,A.p("Refresh",a,a,a,a4,a,a),a,a,new A.au1(b,b7,a3),!1,a,a,a,B.Ks),a),a,a,a)],b6),B.o,B.aw,B.h),a,3,a)
 b2=a6*0.4
 b4=b.gcz()
 b3=A.e0(B.d.j(b.gatM()),a)
