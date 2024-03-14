@@ -29273,11 +29273,9 @@ aAr:function aAr(a){this.a=a},
 aAg:function aAg(a){this.a=a},
 aAs:function aAs(a){this.a=a},
 aAf:function aAf(a){this.a=a},
-aAt:function aAt(a,b,c){this.a=a
-this.b=b
-this.c=c},
-aAe:function aAe(a,b){this.a=a
+aAt:function aAt(a,b){this.a=a
 this.b=b},
+aAe:function aAe(a){this.a=a},
 aAc:function aAc(a){this.a=a},
 aAd:function aAd(a){this.a=a},
 aAu:function aAu(a){this.a=a},
@@ -99446,7 +99444,7 @@ i=i.c.c.a
 o=$.h
 if(o==null)o=$.h=new A.z()
 o.C(i.A$)
-return new A.b6(k,A.xB("BUSINESS NAME: "+h+"\n\nBUSINESS EMAIL: "+r+"\n\nMONTH PAID FOR: "+q+"\n\nCSR FEE: NGN"+p+".00\n\nRECEIPT NO: "+j+"\n\nTIME STAMP: "+J.cL(J.d(J.d(J.d(i.E$,l),s),"timeStamp")),n.d),new A.ax9(a),m)},
+return new A.b6(k,A.xB("BUSINESS NAME: "+h+"\n\nBUSINESS EMAIL: "+r+"\n\nMONTH PAID FOR: "+q+"\n\nCSR FEE: NGN"+p+".00\n\nRECEIPT NO: "+j+"\n\nTIME STAMP: "+J.cL(J.d(J.d(J.d(i.E$,l),s),"createdAt")),n.d),new A.ax9(a),m)},
 $S:2}
 A.ax9.prototype={
 $0(){var s=A.at(this.a).c
@@ -99916,7 +99914,7 @@ i=i.c.c.a
 o=$.h
 if(o==null)o=$.h=new A.z()
 o.C(i.A$)
-return new A.b6(k,A.xB("BUSINESS NAME: "+h+"\n\nBUSINESS EMAIL: "+r+"\n\nMONTH TO BE PAID FOR: "+q+"\n\nCSR FEE: NGN"+p+".00\n\nRECEIPT NO: "+j+"\n\nTIME STAMP: "+J.cL(J.d(J.d(J.d(i.E$,l),s),"timeStamp")),n.d),new A.ax2(a),m)},
+return new A.b6(k,A.xB("BUSINESS NAME: "+h+"\n\nBUSINESS EMAIL: "+r+"\n\nMONTH TO BE PAID FOR: "+q+"\n\nCSR FEE: NGN"+p+".00\n\nRECEIPT NO: "+j+"\n\nTIME STAMP: "+J.cL(J.d(J.d(J.d(i.E$,l),s),"createdAt")),n.d),new A.ax2(a),m)},
 $S:2}
 A.ax2.prototype={
 $0(){var s=A.at(this.a).c
@@ -100458,7 +100456,7 @@ m=g.as
 if(m===$){h=g.a.Q
 h===$&&A.c()
 m=g.as=h}h=t.p
-return A.aY(A.as(f,new A.a7(B.oV,A.ai(A.b([new A.r(f,q,f,f),a1,new A.r(f,s*0.03,f,f),B.bT,new A.r(f,s*0.7,A.hF(f,a3,A.hE(!0,A.hH(new A.a7(new A.Y(p,0,p,0),A.ai(A.b([new A.r(f,o,f,f),n,new A.r(f,o,f,f),l,new A.r(f,o,f,f),k,new A.r(f,o,f,f),j,new A.r(f,o,f,f),i,new A.r(f,o,f,f),g.qV(a5,c,B.pu,"Logs",m,new A.aAs(g)),new A.r(f,o,f,f)],h),B.o,f,B.n,B.h),f),f,B.K),B.R,!0),f),f),B.bT,new A.r(a*0.18,f,A.aB(f,!0,f,!1,new A.Gy(b,a*0.02,f),f,f,f,!1,f,f,f,A.e4(f,A.p("Logout",f,f,f,r,f,f),B.G,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.aAt(g,a5,c),f,f,f,f,f,f,!1,B.ar)),f),new A.r(f,q,f,f)],h),B.o,f,B.n,B.h),f),B.j,a4,f,f,f,s,f,f,f,f,a),f,40,B.R)},
+return A.aY(A.as(f,new A.a7(B.oV,A.ai(A.b([new A.r(f,q,f,f),a1,new A.r(f,s*0.03,f,f),B.bT,new A.r(f,s*0.7,A.hF(f,a3,A.hE(!0,A.hH(new A.a7(new A.Y(p,0,p,0),A.ai(A.b([new A.r(f,o,f,f),n,new A.r(f,o,f,f),l,new A.r(f,o,f,f),k,new A.r(f,o,f,f),j,new A.r(f,o,f,f),i,new A.r(f,o,f,f),g.qV(a5,c,B.pu,"Logs",m,new A.aAs(g)),new A.r(f,o,f,f)],h),B.o,f,B.n,B.h),f),f,B.K),B.R,!0),f),f),B.bT,new A.r(a*0.18,f,A.aB(f,!0,f,!1,new A.Gy(b,a*0.02,f),f,f,f,!1,f,f,f,A.e4(f,A.p("Logout",f,f,f,r,f,f),B.G,!1,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,f,new A.aAt(g,a5),f,f,f,f,f,f,!1,B.ar)),f),new A.r(f,q,f,f)],h),B.o,f,B.n,B.h),f),B.j,a4,f,f,f,s,f,f,f,f,a),f,40,B.R)},
 qV(a,b,c,d,e,f){var s=null,r=b.b,q=b.a,p=A.cl(c,B.e,s,q*0.028),o=A.p(d,s,s,s,this.f,s,s),n=A.ce(10),m=e?B.e:B.V
 return new A.r(s,r*0.1,A.aB(s,!0,q*0.01,!1,p,r*0.025,s,new A.aAu(f),!1,new A.dH(n,new A.bT(m,1,B.a2,-1)),s,o,s),s)}}
 A.aAm.prototype={
@@ -100539,15 +100537,14 @@ $S:0}
 A.aAt.prototype={
 $0(){var s=0,r=A.x(t.H),q,p=this
 var $async$$0=A.y(function(a,b){if(a===1)return A.u(b,r)
-while(true)switch(s){case 0:q=A.aU(!1,new A.aAe(p.a,p.c),p.b,t.H)
+while(true)switch(s){case 0:q=A.aU(!1,new A.aAe(p.a),p.b,t.H)
 s=1
 break
 case 1:return A.v(q,r)}})
 return A.w($async$$0,r)},
 $S:9}
 A.aAe.prototype={
-$1(a){var s=this.b.a
-return new A.hl(B.Z7,B.YR,A.b([new A.fx(s*0.1,B.aX,B.e,"No",new A.aAc(a),null),A.fj(new A.aAd(this.a),B.J,"Yes",B.e,s*0.12)],t.p),null)},
+$1(a){return new A.hl(B.Z7,B.YR,A.b([new A.fx(100,B.aX,B.e,"No",new A.aAc(a),null),A.fj(new A.aAd(this.a),B.J,"Yes",B.e,100)],t.p),null)},
 $S:40}
 A.aAc.prototype={
 $0(){var s=A.at(this.a).c
